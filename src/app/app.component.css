@@ -1,0 +1,14 @@
+
+
+button {
+    margin: 2px;
+    width: 75px;
+    height: 75px;    
+    background-color: red;
+    float: left;
+    border: 15px solid brown;
+}
+
+button.off {
+    background-color: green;
+}
